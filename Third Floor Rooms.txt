@@ -1,0 +1,67 @@
+9 = Elevator
+
+1,2,3,4,5 = Stairwells
+
+A = 301
+
+B = 302A Storage
+
+C = 302
+
+D = 304
+
+p (lower case) = 304A
+
+F = 306
+
+G = 308A, 309
+
+H = 308 
+
+o (lower case) = Fan Room 1
+
+J = 303
+
+K = 305
+
+L = 307
+
+R = Caretaker room
+
+T = Fan Room 2
+
+U = 312, 314
+
+V = 313
+
+N = 309A
+
+O = 311A
+
+P = 311B
+
+Q = 310
+
+W = 314A
+
+X = 316  
+
+Y = 315 
+
+Z = Storage 
+	
+a (lower case) = 317
+
+b (lower case) = 320
+
+c (lower case) = 318
+
+d (lower case) = 322, Caretaker Room
+
+f (lower case) = 319, 319A, 326A, 326B
+
+g (lower case) = 324
+
+m (lower case) = 213, 323, 328, 330
+
+

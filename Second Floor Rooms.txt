@@ -1,0 +1,61 @@
+9 = Elevator
+
+1,2,3,4,5 = Stairwells
+
+A = Main office
+
+B = Guidance department 
+
+C = 202 Computer Room
+
+D = Board Room
+
+o (lower case) = Conference Rooms
+
+F = 203/205 Labs
+
+G = 207A Career Centre
+
+H = 207 Co-op
+
+p (lower case) = 204 Co-op
+
+J = 204A Co-op
+
+K = 206
+
+L = 208
+
+R = 209a Storage
+
+S = 209
+
+T = 211
+
+U = 213
+
+V = 215A/215B
+
+M = 208A
+
+N = 210
+
+O = 212
+
+P = 214
+
+Q = 216
+
+a (lower case) = 217A/217B, 220
+
+b (lower case) = 219, 219A, 222 
+
+e (lower case) = Staff Lounge
+
+g (lower case) = 218
+
+j (lower case) = 224
+
+k (lower case) = 226, 221, 223
+
+
