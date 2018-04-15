@@ -1,0 +1,83 @@
+9 = Elevator
+
+1,2,3,4,5 = Stairwells
+
+A = 102
+
+B = 101 
+
+C = 103
+
+D = 104
+
+o (lower case) = 108A
+
+F = 109
+
+G = 107, 106A
+
+H = 108
+
+p (lower case) = 106
+
+J = 110
+
+K = 112
+
+L = Work Area
+
+R = 122
+
+S = 123
+
+T = 124
+
+U = 125
+
+V = 126
+
+M = 117
+
+N = 118
+
+O = 119 (lecture hall)
+
+P = 120
+
+Q = 121
+
+W = weight room (gym 4)
+
+X = 127
+
+Z = 128
+
+a (lower case) = 116, 115, gym 3 
+
+c (lower case) = 114, 113
+
+e (lower case) = 129
+
+f (lower case) = Swimming pool stairs
+
+g (lower case) = Gym 1/2 doors
+
+h (lower case) = 130 
+
+i (lower case) = 131 
+
+j (lower case) = stage
+
+k (lower case) = caf doors
+
+l (lower case) = Servery (caf food room)
+
+m (lower case) = caretaker room
+
+n (lower case) = 134
+
+q (lower case) = 133
+
+r (lower case) = 132
+
+
